@@ -1,4 +1,4 @@
-# GhanaPost GPS Locatioin API (Laravel Project)
+# GhanaPost GPS Locatioin API (Laravel 9 Project)
 
 ### Installation
     $ git clone https://github.com/khobbie/ghanapostgps_api.git
